@@ -6,7 +6,7 @@
     Method: XoR
     Time complexity of O(n)
 
-    Author: Seiji - 24/09/23
+    Author: Seiji - 25/09/23
 */
 
 char findTheDifference(char * s, char * t){
