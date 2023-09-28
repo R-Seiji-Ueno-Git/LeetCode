@@ -1,5 +1,16 @@
 /*
-    Two Sum Problem - LeetCode
+    Two Sum Problem V1- LeetCode
+    URL: https://leetcode.com/problems/two-sum/
+    
+    Language: C
+    Method: Brute Force
+    Time complexity of O(n^2)
+*/
+
+The easiest way, The brute force approach involves checking every possible pair of numbers in the array to see if their sum matches the target value.
+
+/*
+    Two Sum Problem V2 - LeetCode
     URL: https://leetcode.com/problems/two-sum/
     
     Language: C
