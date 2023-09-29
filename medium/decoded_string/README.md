@@ -13,9 +13,10 @@ Solution:
 
     Calculate Decoded Length: Traverse the input string s and calculate the total length of the decoded string.
 
-    Find k-th Character: Traverse the input string s in reverse order. Adjust the total length and k according to the encountered characters.
-    When a letter is found, check whether it's the k-th character in the decoded string. If it is
-    return this character.
+    Find k-th Character: Traverse the input string s in reverse order. 
+    Adjust the total length and k according to the encountered characters.
+    When a letter is found, check whether it's the k-th character in the decoded string. 
+    If it is return this character.
 
 Function Signature:
 char* decodeAtIndex(char* s, int k);
@@ -27,5 +28,6 @@ Parameters:
 
 Return:
 
-    Returns a pointer to a string containing the character at the k-th position in the decoded string. If no character is found, it returns an empty string.
+    Returns a pointer to a string containing the character at the k-th position in the decoded string.
+    If no character is found, it returns an empty string.
 
