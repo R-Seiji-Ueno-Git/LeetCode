@@ -13,7 +13,8 @@ Solution:
 
     Calculate Decoded Length: Traverse the input string s and calculate the total length of the decoded string.
 
-    Find k-th Character: Traverse the input string s in reverse order. Adjust the total length and k according to the encountered characters. When a letter is found, check whether it's the k-th character in the decoded string. If it is
+    Find k-th Character: Traverse the input string s in reverse order. Adjust the total length and k according to the encountered characters.
+    When a letter is found, check whether it's the k-th character in the decoded string. If it is
     return this character.
 
 Function Signature:
