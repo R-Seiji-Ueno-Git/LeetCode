@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/language-C-blue)
 
 ## Introduction 🌟
-Hello, fellow Coders! Welcome to my unique GitHub repository, where I'm on a mission to solve all questions on LeetCode in C and C++
+Hello, fellow Coders! Welcome to my GitHub repository, where I'm on a mission to solve all questions on LeetCode in C and C++
 and in the process, elevate my coding skills to the next level. LeetCode offers a plethora of challenges, and conquering them all is no small feat. 
 Here, you will find my solutions, thoughts, and the lessons I learn, as I embark on this exciting journey.
 
